@@ -1,0 +1,62 @@
+body{
+	background-image: url("http://www.stratospherehotel.com/var/ezwebin_site/storage/images/media/gallery-images/food-and-drink/tow/top-of-the-world-restaurant/22159-5-eng-GB/Top-of-the-World-Restaurant_top_image_gallery.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+h1{
+	text-align: center;
+	color: #ba1d1d;
+	font-size: 70px;
+	font-family: "Cinzel", serif;
+}
+
+#em, #pw{
+	float: left;
+	font-family: "Cinzel", serif;
+	color: #c6cdd3;
+}
+
+#em{
+	position: relative;
+	left: 535px;
+	bottom: 17px;
+	font-size:15px;
+}
+
+#pw{
+	position: relative;
+	left: 455px;
+	bottom: 20px;
+}
+
+input{
+	display: block;
+	margin: 20px;
+	position: relative;
+	top: 40px;
+}
+
+#pwf{
+	position: relative;
+	right: 20px;
+}
+
+#button{
+	position: relative;
+	top: 25px;
+	right: 118px
+}
+#signup{
+	position: relative;
+	top: 30px;
+	margin-right:160px;
+	color: #c6cdd3;
+}
+
+a{
+	margin-left: 5px;
+	color:  #ba1d1d;
+	font-weight: bold;
+}

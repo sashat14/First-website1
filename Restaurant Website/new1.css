@@ -1,0 +1,228 @@
+#headimg{
+	
+	background-image: url("https://cdn.shutterstock.com/shutterstock/videos/11746361/thumb/8.jpg");
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	position: relative;
+	top: 100px;
+}   
+
+
+h1, h3{
+	text-align: center;
+	font-family: "Amatic SC", cursive, sans serif;
+}
+
+h1{
+	height: 175px;
+	font-size:125px;
+	text-align: center;
+	position: relative;
+	top: 150px;
+	text-shadow:length: 40%;
+	
+}
+
+#captain{
+	width:200px;
+	position: absolute;
+	top: 25px;
+	left: 625px;
+}
+h3 {
+	font-size: 55px;
+	display: block;
+	width: auto;
+	height: auto;
+	position: relative;
+	top: 45px;
+	background-color: #97fcdf;
+	
+}
+
+p{
+	font-family: "Caveat Brush", cursive, sans serif;
+	font-size:23px;
+}
+
+#hppara {
+	line-height: 1.6em;
+	word-spacing:0.4em;
+	display: block;
+	width: auto;
+	height: 700px;
+	padding-left: 320px;
+	padding-right: 320px;
+	background-color: #97fcdf;
+	position: relative;
+	bottom: 20px;
+}
+
+#hdlnks{
+	display: block;
+	word-spacing: 0.5em;
+	background-color: #97fcdf;
+	position: absolute;
+	height: 100px;
+}
+
+#ob {
+	word-spacing: 5px;
+}
+
+#dcmsi{
+	text-align: right;
+	font-size: 25px;
+	position: relative;
+	bottom: 250px;
+	right: 50px;
+}
+#dhrs {
+	float: left;
+	background-image: url("http://img.heartlight.org/ppt/blue_craquel_background.jpg");
+	font-size: 28px;
+	position:relative;
+	margin-right: 170px;
+	
+
+
+}
+
+#obhrs {
+	float: left;
+	background-image: url("http://img.heartlight.org/ppt/blue_craquel_background.jpg");
+	font-size: 28px;
+	position:relative;
+	
+	
+	
+}
+
+#loc {
+	background-image: url("http://img.heartlight.org/ppt/blue_craquel_background.jpg");
+	line-height: 150%;
+	float: left;
+	position:relative;
+	margin-left: 150px;
+	margin-right: 160px; 
+}
+
+#hours {
+	font-size: 30px;
+	text-align: center;
+	color: #97fcdf;
+	background-image: url("http://img.heartlight.org/ppt/blue_craquel_background.jpg");
+	height: 450px;
+	position: relative;
+	bottom: 45px;
+}
+
+#loc a{
+	text-decoration: none;
+}
+#loc a p{
+	color: #97fcdf;
+	border: 8px outset #4f47bc;
+	font-size: 20px;
+}
+
+.hrheadings {
+	font-size: 38px;
+	background-image: url("http://img.heartlight.org/ppt/blue_craquel_background.jpg");
+}
+.hrsubhd {
+	font-size: 33px;
+	background-image: url("http://img.heartlight.org/ppt/blue_craquel_background.jpg");
+}
+
+#hours p, #hours a {
+	background-image: url("http://img.heartlight.org/ppt/blue_craquel_background.jpg");
+}
+
+#secondhlf {
+	background-color: #051021; 
+	font-family: "Amatic SC", cursive, sans serif;
+	font-size: 18px;
+	color: black;
+	position: relative;
+	bottom: 65px;
+	height: 200px;
+	
+}
+
+li {
+	float: left;
+	font-size: 32px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 125px;
+	position:relative;
+	right: 90px;
+	bottom: 0px;
+	display: inline-block;
+	text-decoration: none;
+	color: #8141c1;
+}
+
+i{
+	display: block;
+	float: left;
+	position: relative;
+	left: 550px;
+	top: 10px;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+nav a {
+	color: #332142;
+	font-family: "Amatic SC", cursive, sans serif;
+	font-size: 50px;
+	position: relative;
+	top: 20px;
+	background: #97fcdf;
+	margin-right: 30px;
+	margin-left: 50px;
+	text-decoration: none;
+}
+ 
+ nav a:hover {
+	background-color: #332142;
+	color: #97fcdf;
+}
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  right: 150px;
+  bottom: 40px;
+  left: 200px;
+  transition-timing-function: ease-in-out;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 60%;
+  border: 0
+  } 
